@@ -1,0 +1,10 @@
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\bin\Debug\Student_Registration_System.exe.config
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\bin\Debug\Student_Registration_System.exe
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\bin\Debug\Student_Registration_System.pdb
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\obj\Debug\Student_Registration_System.csprojResolveAssemblyReference.cache
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\obj\Debug\Student_Registration_System.Form1.resources
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\obj\Debug\Student_Registration_System.Properties.Resources.resources
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\obj\Debug\Student_Registration_System.csproj.GenerateResource.Cache
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\obj\Debug\Student_Registration_System.exe
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\obj\Debug\Student_Registration_System.pdb
+c:\users\nester\documents\visual studio 2015\Projects\Student_Registration_System\Student_Registration_System\bin\Debug\SLRDbConnector.dll
